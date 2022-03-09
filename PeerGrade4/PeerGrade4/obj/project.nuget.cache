@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwxfBL3I4cVdiEwAHd4TTQpSZDinz/ETHdbITrT5dxQd/jxSJoIbPKOHD7xh/ZKGsWujZDBPTWsbCUkZmcMSjA==",
+  "success": true,
+  "projectFilePath": "D:\\PeerGrade\\PeerGrade4\\PeerGrade4\\PeerGrade4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\malan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\malan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\malan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
